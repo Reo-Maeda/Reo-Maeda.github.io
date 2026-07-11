@@ -68,12 +68,12 @@
   </ul>
 
   <h2>研究情報</h2>
-  <p>
+  <ul>
     <li>現在の研究テーマ：最適輸送理論</li>
     <li>テーマの紹介：最適輸送理論とは,「物をどこからどこへ運べば最も効率的か」を数学的に研究する理論です. <br>
     もっと言うと, ある分布を別の分布へ, 輸送コストが最小となるように移す方法を研究する数学分野です.</li>
     <li>参考資料：Filippo Santambrogio氏 - <embed src="https://math.univ-lyon1.fr/~santambrogio/OTAM-cvgmt.pdf" width="100%" height="600px" type="application/pdf"></li>
-  </p>
+  </ul>
 
   <h2>リンク</h2>
   <ul>
